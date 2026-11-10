@@ -1,0 +1,14 @@
+{
+  "background_color": "#fffaf5",
+  "dir": "ltr",
+  "display": "standalone",
+  "name": "Cosmetic",
+  "orientation": "portrait",
+  "scope": "/",
+  "short_name": "CSC",
+  "start_url": "/",
+  "theme_color": "#f6e7eb",
+  "description": "Cosmetic",
+  "lang": "ru",
+  "id": "CosmeticCosmeticCosmetic"
+}
